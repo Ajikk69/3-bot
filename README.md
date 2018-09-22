@@ -28,3 +28,6 @@ elif msg.text in ["Bot out"]:
       k1.sendMessage(msg.to,"Semua Bot Sudah Keluar")
     else:
       k1.sendMessage(msg.to,"He declined all invitations")
+
+
+© J1KK
